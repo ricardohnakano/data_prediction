@@ -1,0 +1,718 @@
+2016-02-26 14:12:21.120948-START (range = 0.005 index = 0 range2 = 0)
+2016-02-26 14:12:21.688315 - 
+2016-02-26 14:19:34.384582-FINISH - Random Forest Squared Regression: 0.28 (+/- 0.04)
+
+2016-02-26 14:19:35.282156-START (range = 0.010 index = 0 range2 = 0)
+2016-02-26 14:19:35.866671 - 
+2016-02-26 14:25:13.811452-FINISH - Random Forest Squared Regression: 0.28 (+/- 0.04)
+
+2016-02-26 14:25:14.721483-START (range = 0.015 index = 0 range2 = 0)
+2016-02-26 14:25:15.350822 - 
+2016-02-26 14:29:26.687433-FINISH - Random Forest Squared Regression: 0.29 (+/- 0.04)
+
+2016-02-26 14:29:27.648053-START (range = 0.020 index = 0 range2 = 0)
+2016-02-26 14:29:28.278837 - 
+2016-02-26 14:33:06.517760-FINISH - Random Forest Squared Regression: 0.29 (+/- 0.04)
+
+2016-02-26 14:33:07.437327-START (range = 0.025 index = 0 range2 = 0)
+2016-02-26 14:33:08.095425 - 
+2016-02-26 14:36:02.860745-FINISH - Random Forest Squared Regression: 0.30 (+/- 0.05)
+
+2016-02-26 14:36:03.769854-START (range = 0.030 index = 0 range2 = 0)
+2016-02-26 14:36:04.424697 - 
+2016-02-26 14:38:52.934723-FINISH - Random Forest Squared Regression: 0.30 (+/- 0.05)
+
+2016-02-26 14:38:53.846580-START (range = 0.035 index = 0 range2 = 0)
+2016-02-26 14:38:54.515399 - 
+2016-02-26 14:41:13.840207-FINISH - Random Forest Squared Regression: 0.30 (+/- 0.05)
+
+2016-02-26 14:41:14.752810-START (range = 0.040 index = 0 range2 = 0)
+2016-02-26 14:41:15.428722 - 
+2016-02-26 14:43:25.986289-FINISH - Random Forest Squared Regression: 0.30 (+/- 0.05)
+
+2016-02-26 14:43:26.891271-START (range = 0.045 index = 0 range2 = 0)
+2016-02-26 14:43:27.564618 - 
+2016-02-26 14:45:36.280468-FINISH - Random Forest Squared Regression: 0.30 (+/- 0.05)
+
+2016-02-26 14:45:37.180986-START (range = 0.050 index = 0 range2 = 0)
+2016-02-26 14:45:37.859174 - 
+2016-02-26 14:47:39.838207-FINISH - Random Forest Squared Regression: 0.30 (+/- 0.05)
+
+2016-02-26 14:47:40.757616-START (range = 0.055 index = 0 range2 = 0)
+2016-02-26 14:47:41.437793 - 
+2016-02-26 14:49:37.692651-FINISH - Random Forest Squared Regression: 0.29 (+/- 0.05)
+
+2016-02-26 14:49:38.605364-START (range = 0.060 index = 0 range2 = 0)
+2016-02-26 14:49:39.294126 - 
+2016-02-26 14:51:31.763635-FINISH - Random Forest Squared Regression: 0.29 (+/- 0.05)
+
+2016-02-26 14:51:32.636179-START (range = 0.065 index = 0 range2 = 0)
+2016-02-26 14:51:33.325710 - 
+2016-02-26 14:53:16.067078-FINISH - Random Forest Squared Regression: 0.29 (+/- 0.05)
+
+2016-02-26 14:53:16.978564-START (range = 0.070 index = 0 range2 = 0)
+2016-02-26 14:53:17.658493 - 
+2016-02-26 14:54:53.503507-FINISH - Random Forest Squared Regression: 0.29 (+/- 0.05)
+
+2016-02-26 14:54:54.414315-START (range = 0.075 index = 0 range2 = 0)
+2016-02-26 14:54:55.107077 - 
+2016-02-26 14:56:25.786158-FINISH - Random Forest Squared Regression: 0.27 (+/- 0.04)
+
+2016-02-26 14:56:26.692533-START (range = 0.080 index = 0 range2 = 0)
+2016-02-26 14:56:27.396803 - 
+2016-02-26 14:57:54.186977-FINISH - Random Forest Squared Regression: 0.27 (+/- 0.04)
+
+2016-02-26 14:57:55.100439-START (range = 0.085 index = 0 range2 = 0)
+2016-02-26 14:57:55.791309 - 
+2016-02-26 14:59:20.911962-FINISH - Random Forest Squared Regression: 0.25 (+/- 0.03)
+
+2016-02-26 14:59:21.809425-START (range = 0.090 index = 0 range2 = 0)
+2016-02-26 14:59:22.502607 - 
+2016-02-26 15:00:38.857681-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 15:00:39.760283-START (range = 0.095 index = 0 range2 = 0)
+2016-02-26 15:00:40.447050 - 
+2016-02-26 15:01:53.426994-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 15:01:54.325392-START (range = 0.100 index = 0 range2 = 0)
+2016-02-26 15:01:55.012926 - 
+2016-02-26 15:03:07.398989-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 15:03:08.298950-START (range = 0.105 index = 0 range2 = 0)
+2016-02-26 15:03:08.985001 - 
+2016-02-26 15:04:22.387100-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 15:04:23.288369-START (range = 0.110 index = 0 range2 = 0)
+2016-02-26 15:04:23.974136 - 
+2016-02-26 15:05:31.493665-FINISH - Random Forest Squared Regression: 0.22 (+/- 0.02)
+
+2016-02-26 15:05:32.389468-START (range = 0.115 index = 0 range2 = 0)
+2016-02-26 15:05:33.078077 - 
+2016-02-26 15:06:40.766055-FINISH - Random Forest Squared Regression: 0.20 (+/- 0.02)
+
+2016-02-26 15:06:41.672112-START (range = 0.120 index = 0 range2 = 0)
+2016-02-26 15:06:42.364657 - 
+2016-02-26 15:07:46.818915-FINISH - Random Forest Squared Regression: 0.19 (+/- 0.03)
+
+2016-02-26 15:07:47.733511-START (range = 0.125 index = 0 range2 = 0)
+2016-02-26 15:07:48.418005 - 
+2016-02-26 15:08:51.688181-FINISH - Random Forest Squared Regression: 0.19 (+/- 0.03)
+
+2016-02-26 15:08:52.616258-START (range = 0.130 index = 0 range2 = 0)
+2016-02-26 15:08:53.309397 - 
+2016-02-26 15:09:54.952914-FINISH - Random Forest Squared Regression: 0.17 (+/- 0.03)
+
+2016-02-26 15:09:55.860111-START (range = 0.135 index = 0 range2 = 0)
+2016-02-26 15:09:56.548222 - 
+2016-02-26 15:10:53.586562-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.04)
+
+2016-02-26 15:10:54.512887-START (range = 0.140 index = 0 range2 = 0)
+2016-02-26 15:10:55.204704 - 
+2016-02-26 15:11:52.782525-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.04)
+
+2016-02-26 15:11:53.695003-START (range = 0.145 index = 0 range2 = 0)
+2016-02-26 15:11:54.392214 - 
+2016-02-26 15:12:45.075682-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.04)
+
+2016-02-26 15:12:45.993451-START (range = 0.150 index = 0 range2 = 0)
+2016-02-26 15:12:46.699581 - 
+2016-02-26 15:13:24.811571-FINISH - Random Forest Squared Regression: 0.07 (+/- 0.04)
+
+2016-02-26 15:13:25.717192-START (range = 0.155 index = 0 range2 = 0)
+2016-02-26 15:13:26.416548 - 
+2016-02-26 15:13:53.658421-FINISH - Random Forest Squared Regression: 0.03 (+/- 0.02)
+
+2016-02-26 15:13:54.566092-START (range = 0.160 index = 0 range2 = 0)
+2016-02-26 15:13:55.264978 - 
+2016-02-26 15:14:15.390824-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:14:16.305433-START (range = 0.165 index = 0 range2 = 0)
+2016-02-26 15:14:17.010600 - 
+2016-02-26 15:14:36.993599-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:14:37.869660-START (range = 0.170 index = 0 range2 = 0)
+2016-02-26 15:14:38.565848 - 
+2016-02-26 15:15:00.076134-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:15:00.991202-START (range = 0.175 index = 0 range2 = 0)
+2016-02-26 15:15:01.700972 - 
+2016-02-26 15:15:21.821352-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:15:22.735436-START (range = 0.180 index = 0 range2 = 0)
+2016-02-26 15:15:23.445345 - 
+2016-02-26 15:15:43.518922-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:15:44.498924-START (range = 0.185 index = 0 range2 = 0)
+2016-02-26 15:15:45.203348 - 
+2016-02-26 15:16:05.507955-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:16:06.428592-START (range = 0.190 index = 0 range2 = 0)
+2016-02-26 15:16:07.132552 - 
+2016-02-26 15:16:26.825488-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:16:27.737355-START (range = 0.195 index = 0 range2 = 0)
+2016-02-26 15:16:28.463091 - 
+2016-02-26 15:16:49.333711-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:16:50.695245-START (range = 0.200 index = 0 range2 = 0)
+2016-02-26 15:16:51.968809 - 
+2016-02-26 15:17:13.166739-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:17:14.077580-START (range = 0.205 index = 0 range2 = 0)
+2016-02-26 15:17:14.773102 - 
+2016-02-26 15:17:34.873918-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:17:35.782379-START (range = 0.010 index = 1 range2 = 0)
+2016-02-26 15:17:36.423901 - 
+2016-02-26 15:25:11.321853-FINISH - Random Forest Squared Regression: -0.01 (+/- 0.00)
+
+2016-02-26 15:25:12.233533-START (range = 0.020 index = 1 range2 = 0)
+2016-02-26 15:25:12.826922 - 
+2016-02-26 15:37:36.011536-FINISH - Random Forest Squared Regression: -0.00 (+/- 0.02)
+
+2016-02-26 15:37:36.931365-START (range = 0.030 index = 1 range2 = 0)
+2016-02-26 15:37:37.489030 - 
+2016-02-26 15:51:08.461538-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-26 15:51:09.376319-START (range = 0.040 index = 1 range2 = 0)
+2016-02-26 15:51:09.914555 - 
+2016-02-26 16:03:48.371248-FINISH - Random Forest Squared Regression: 0.02 (+/- 0.01)
+
+2016-02-26 16:03:49.904257-START (range = 0.050 index = 1 range2 = 0)
+2016-02-26 16:03:50.972369 - 
+2016-02-26 16:19:09.165616-FINISH - Random Forest Squared Regression: 0.02 (+/- 0.01)
+
+2016-02-26 16:19:10.163971-START (range = 0.060 index = 1 range2 = 0)
+2016-02-26 16:19:10.695277 - 
+2016-02-26 16:34:50.880693-FINISH - Random Forest Squared Regression: 0.03 (+/- 0.01)
+
+2016-02-26 16:34:52.160963-START (range = 0.070 index = 1 range2 = 0)
+2016-02-26 16:34:52.708970 - 
+2016-02-26 16:47:44.321960-FINISH - Random Forest Squared Regression: 0.04 (+/- 0.01)
+
+2016-02-26 16:47:45.280320-START (range = 0.080 index = 1 range2 = 0)
+2016-02-26 16:47:45.789323 - 
+2016-02-26 17:00:21.976687-FINISH - Random Forest Squared Regression: 0.07 (+/- 0.01)
+
+2016-02-26 17:00:22.883225-START (range = 0.090 index = 1 range2 = 0)
+2016-02-26 17:00:23.379462 - 
+2016-02-26 17:12:20.306056-FINISH - Random Forest Squared Regression: 0.08 (+/- 0.01)
+
+2016-02-26 17:12:21.207649-START (range = 0.100 index = 1 range2 = 0)
+2016-02-26 17:12:21.706970 - 
+2016-02-26 17:24:13.860083-FINISH - Random Forest Squared Regression: 0.08 (+/- 0.01)
+
+2016-02-26 17:24:14.858716-START (range = 0.110 index = 1 range2 = 0)
+2016-02-26 17:24:15.391103 - 
+2016-02-26 17:35:56.526011-FINISH - Random Forest Squared Regression: 0.09 (+/- 0.01)
+
+2016-02-26 17:35:57.447794-START (range = 0.120 index = 1 range2 = 0)
+2016-02-26 17:35:57.934304 - 
+2016-02-26 17:46:46.697060-FINISH - Random Forest Squared Regression: 0.12 (+/- 0.02)
+
+2016-02-26 17:46:47.615642-START (range = 0.130 index = 1 range2 = 0)
+2016-02-26 17:46:48.096222 - 
+2016-02-26 17:57:35.837008-FINISH - Random Forest Squared Regression: 0.13 (+/- 0.02)
+
+2016-02-26 17:57:36.750127-START (range = 0.140 index = 1 range2 = 0)
+2016-02-26 17:57:37.223331 - 
+2016-02-26 18:08:01.809658-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.02)
+
+2016-02-26 18:08:03.003800-START (range = 0.150 index = 1 range2 = 0)
+2016-02-26 18:08:03.500576 - 
+2016-02-26 18:18:17.640191-FINISH - Random Forest Squared Regression: 0.21 (+/- 0.01)
+
+2016-02-26 18:18:18.575187-START (range = 0.160 index = 1 range2 = 0)
+2016-02-26 18:18:19.017939 - 
+2016-02-26 18:28:24.959585-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 18:28:25.911364-START (range = 0.170 index = 1 range2 = 0)
+2016-02-26 18:28:26.360673 - 
+2016-02-26 18:38:25.189254-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 18:38:26.099818-START (range = 0.180 index = 1 range2 = 0)
+2016-02-26 18:38:26.549313 - 
+2016-02-26 18:48:28.556773-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 18:48:29.481942-START (range = 0.190 index = 1 range2 = 0)
+2016-02-26 18:48:29.929970 - 
+2016-02-26 18:58:37.142642-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 18:58:38.127454-START (range = 0.015 index = 2 range2 = 0.05)
+2016-02-26 18:58:38.727342 - 
+2016-02-26 19:05:55.689852-FINISH - Random Forest Squared Regression: 0.27 (+/- 0.04)
+
+2016-02-26 19:05:56.665746-START (range = 0.025 index = 2 range2 = 0.05)
+2016-02-26 19:05:57.166933 - 
+2016-02-26 19:14:29.841588-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 19:14:30.768817-START (range = 0.035 index = 2 range2 = 0.05)
+2016-02-26 19:14:31.249300 - 
+2016-02-26 19:23:27.780935-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 19:23:28.693564-START (range = 0.045 index = 2 range2 = 0.05)
+2016-02-26 19:23:29.180042 - 
+2016-02-26 19:32:30.951177-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.03)
+
+2016-02-26 19:32:31.862981-START (range = 0.055 index = 2 range2 = 0.05)
+2016-02-26 19:32:32.335583 - 
+2016-02-26 19:41:56.861372-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 19:41:58.218404-START (range = 0.065 index = 2 range2 = 0.05)
+2016-02-26 19:41:59.152201 - 
+2016-02-26 19:51:40.774716-FINISH - Random Forest Squared Regression: 0.22 (+/- 0.03)
+
+2016-02-26 19:51:41.706889-START (range = 0.075 index = 2 range2 = 0.05)
+2016-02-26 19:51:42.177879 - 
+2016-02-26 20:01:33.594553-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-26 20:01:34.495637-START (range = 0.085 index = 2 range2 = 0.05)
+2016-02-26 20:01:34.969177 - 
+2016-02-26 20:11:32.625227-FINISH - Random Forest Squared Regression: 0.22 (+/- 0.03)
+
+2016-02-26 20:11:33.613258-START (range = 0.095 index = 2 range2 = 0.05)
+2016-02-26 20:11:34.128528 - 
+2016-02-26 20:21:38.165555-FINISH - Random Forest Squared Regression: 0.22 (+/- 0.04)
+
+2016-02-26 20:21:39.080510-START (range = 0.105 index = 2 range2 = 0.05)
+2016-02-26 20:21:39.568377 - 
+2016-02-26 20:32:04.223610-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.03)
+
+2016-02-26 20:32:05.142828-START (range = 0.115 index = 2 range2 = 0.05)
+2016-02-26 20:32:05.626322 - 
+2016-02-26 20:42:06.307121-FINISH - Random Forest Squared Regression: 0.16 (+/- 0.03)
+
+2016-02-26 20:42:07.230071-START (range = 0.125 index = 2 range2 = 0.05)
+2016-02-26 20:42:07.701973 - 
+2016-02-26 20:52:07.800193-FINISH - Random Forest Squared Regression: 0.17 (+/- 0.03)
+
+2016-02-26 20:52:08.811597-START (range = 0.135 index = 2 range2 = 0.05)
+2016-02-26 20:52:09.343237 - 
+2016-02-26 21:02:08.557687-FINISH - Random Forest Squared Regression: 0.20 (+/- 0.03)
+
+2016-02-26 21:02:09.603286-START (range = 0.145 index = 2 range2 = 0.05)
+2016-02-26 21:02:10.085652 - 
+2016-02-26 21:11:58.437595-FINISH - Random Forest Squared Regression: 0.21 (+/- 0.02)
+
+2016-02-26 21:11:59.338846-START (range = 0.155 index = 2 range2 = 0.05)
+2016-02-26 21:11:59.776332 - 
+2016-02-26 21:21:59.673781-FINISH - Random Forest Squared Regression: 0.26 (+/- 0.04)
+
+2016-02-26 21:22:00.599069-START (range = 0.165 index = 2 range2 = 0.05)
+2016-02-26 21:22:01.035202 - 
+2016-02-26 21:32:01.509023-FINISH - Random Forest Squared Regression: 0.27 (+/- 0.04)
+
+2016-02-26 21:32:02.431610-START (range = 0.175 index = 2 range2 = 0.05)
+2016-02-26 21:32:02.875723 - 
+2016-02-26 21:42:02.206280-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 21:42:03.126083-START (range = 0.185 index = 2 range2 = 0.05)
+2016-02-26 21:42:03.573926 - 
+2016-02-26 21:51:57.312805-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 21:51:58.341722-START (range = 0.195 index = 2 range2 = 0.05)
+2016-02-26 21:51:58.792101 - 
+2016-02-26 22:02:00.115879-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 22:02:01.047360-START (range = 0.205 index = 2 range2 = 0.05)
+2016-02-26 22:02:01.498851 - 
+2016-02-26 22:12:07.238446-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-26 22:12:08.151339-START (range = 0.015 index = 2 range2 = 0.1)
+2016-02-26 22:12:08.726439 - 
+2016-02-26 22:19:04.108790-FINISH - Random Forest Squared Regression: 0.20 (+/- 0.03)
+
+2016-02-26 22:19:05.028512-START (range = 0.025 index = 2 range2 = 0.1)
+2016-02-26 22:19:05.554958 - 
+2016-02-26 22:27:29.677020-FINISH - Random Forest Squared Regression: 0.19 (+/- 0.02)
+
+2016-02-26 22:27:30.576360-START (range = 0.035 index = 2 range2 = 0.1)
+2016-02-26 22:27:31.086479 - 
+2016-02-26 22:36:40.978868-FINISH - Random Forest Squared Regression: 0.16 (+/- 0.03)
+
+2016-02-26 22:36:41.920138-START (range = 0.045 index = 2 range2 = 0.1)
+2016-02-26 22:36:42.424325 - 
+2016-02-26 22:45:59.342749-FINISH - Random Forest Squared Regression: 0.17 (+/- 0.03)
+
+2016-02-26 22:46:00.267787-START (range = 0.055 index = 2 range2 = 0.1)
+2016-02-26 22:46:00.792965 - 
+2016-02-26 22:56:58.418497-FINISH - Random Forest Squared Regression: 0.10 (+/- 0.02)
+
+2016-02-26 22:56:59.441860-START (range = 0.065 index = 2 range2 = 0.1)
+2016-02-26 22:57:00.015747 - 
+2016-02-26 23:08:20.612485-FINISH - Random Forest Squared Regression: 0.10 (+/- 0.01)
+
+2016-02-26 23:08:21.539092-START (range = 0.075 index = 2 range2 = 0.1)
+2016-02-26 23:08:22.049002 - 
+2016-02-26 23:19:31.665696-FINISH - Random Forest Squared Regression: 0.12 (+/- 0.02)
+
+2016-02-26 23:19:32.596549-START (range = 0.085 index = 2 range2 = 0.1)
+2016-02-26 23:19:33.092983 - 
+2016-02-26 23:30:11.144250-FINISH - Random Forest Squared Regression: 0.13 (+/- 0.02)
+
+2016-02-26 23:30:12.072538-START (range = 0.095 index = 2 range2 = 0.1)
+2016-02-26 23:30:12.567251 - 
+2016-02-26 23:41:04.893165-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.02)
+
+2016-02-26 23:41:05.809555-START (range = 0.105 index = 2 range2 = 0.1)
+2016-02-26 23:41:06.294616 - 
+2016-02-26 23:51:52.659781-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.02)
+
+2016-02-26 23:51:53.566101-START (range = 0.115 index = 2 range2 = 0.1)
+2016-02-26 23:51:54.048633 - 
+2016-02-27 00:01:56.296686-FINISH - Random Forest Squared Regression: 0.16 (+/- 0.03)
+
+2016-02-27 00:01:57.230565-START (range = 0.125 index = 2 range2 = 0.1)
+2016-02-27 00:01:57.711538 - 
+2016-02-27 00:12:30.496693-FINISH - Random Forest Squared Regression: 0.12 (+/- 0.02)
+
+2016-02-27 00:12:31.421733-START (range = 0.135 index = 2 range2 = 0.1)
+2016-02-27 00:12:31.894727 - 
+2016-02-27 00:22:52.221930-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.02)
+
+2016-02-27 00:22:53.135925-START (range = 0.145 index = 2 range2 = 0.1)
+2016-02-27 00:22:53.612899 - 
+2016-02-27 00:32:51.855424-FINISH - Random Forest Squared Regression: 0.16 (+/- 0.01)
+
+2016-02-27 00:32:52.765029-START (range = 0.155 index = 2 range2 = 0.1)
+2016-02-27 00:32:53.221626 - 
+2016-02-27 00:43:11.761573-FINISH - Random Forest Squared Regression: 0.21 (+/- 0.02)
+
+2016-02-27 00:43:12.689159-START (range = 0.165 index = 2 range2 = 0.1)
+2016-02-27 00:43:13.139195 - 
+2016-02-27 00:53:07.340805-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 00:53:08.271304-START (range = 0.175 index = 2 range2 = 0.1)
+2016-02-27 00:53:08.717511 - 
+2016-02-27 01:03:06.141315-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 01:03:07.057902-START (range = 0.185 index = 2 range2 = 0.1)
+2016-02-27 01:03:07.506993 - 
+2016-02-27 01:12:57.146524-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 01:12:58.093996-START (range = 0.195 index = 2 range2 = 0.1)
+2016-02-27 01:12:58.538827 - 
+2016-02-27 01:22:47.993154-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 01:22:48.903149-START (range = 0.205 index = 2 range2 = 0.1)
+2016-02-27 01:22:49.349667 - 
+2016-02-27 01:32:43.583753-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 01:32:44.504333-START (range = 0.015 index = 2 range2 = 0.15)
+2016-02-27 01:32:45.102199 - 
+2016-02-27 01:41:55.083380-FINISH - Random Forest Squared Regression: 0.05 (+/- 0.01)
+
+2016-02-27 01:41:55.999998-START (range = 0.025 index = 2 range2 = 0.15)
+2016-02-27 01:41:56.555457 - 
+2016-02-27 01:53:35.130112-FINISH - Random Forest Squared Regression: 0.06 (+/- 0.01)
+
+2016-02-27 01:53:36.046253-START (range = 0.035 index = 2 range2 = 0.15)
+2016-02-27 01:53:36.579887 - 
+2016-02-27 02:05:02.176828-FINISH - Random Forest Squared Regression: 0.07 (+/- 0.02)
+
+2016-02-27 02:05:03.502038-START (range = 0.045 index = 2 range2 = 0.15)
+2016-02-27 02:05:04.499771 - 
+2016-02-27 02:16:25.552256-FINISH - Random Forest Squared Regression: 0.08 (+/- 0.01)
+
+2016-02-27 02:16:26.549706-START (range = 0.055 index = 2 range2 = 0.15)
+2016-02-27 02:16:27.084772 - 
+2016-02-27 02:27:47.535524-FINISH - Random Forest Squared Regression: 0.09 (+/- 0.01)
+
+2016-02-27 02:27:48.451116-START (range = 0.065 index = 2 range2 = 0.15)
+2016-02-27 02:27:48.970243 - 
+2016-02-27 02:39:13.428451-FINISH - Random Forest Squared Regression: 0.10 (+/- 0.01)
+
+2016-02-27 02:39:14.342641-START (range = 0.075 index = 2 range2 = 0.15)
+2016-02-27 02:39:14.861998 - 
+2016-02-27 02:51:24.648652-FINISH - Random Forest Squared Regression: 0.06 (+/- 0.01)
+
+2016-02-27 02:51:25.564543-START (range = 0.085 index = 2 range2 = 0.15)
+2016-02-27 02:51:26.068878 - 
+2016-02-27 03:02:43.313555-FINISH - Random Forest Squared Regression: 0.07 (+/- 0.01)
+
+2016-02-27 03:02:44.235538-START (range = 0.095 index = 2 range2 = 0.15)
+2016-02-27 03:02:44.737608 - 
+2016-02-27 03:14:14.986876-FINISH - Random Forest Squared Regression: 0.08 (+/- 0.01)
+
+2016-02-27 03:14:15.913328-START (range = 0.105 index = 2 range2 = 0.15)
+2016-02-27 03:14:16.414970 - 
+2016-02-27 03:25:34.340722-FINISH - Random Forest Squared Regression: 0.08 (+/- 0.01)
+
+2016-02-27 03:25:35.256623-START (range = 0.115 index = 2 range2 = 0.15)
+2016-02-27 03:25:35.741448 - 
+2016-02-27 03:36:07.717635-FINISH - Random Forest Squared Regression: 0.10 (+/- 0.01)
+
+2016-02-27 03:36:08.648841-START (range = 0.125 index = 2 range2 = 0.15)
+2016-02-27 03:36:09.134051 - 
+2016-02-27 03:46:39.182284-FINISH - Random Forest Squared Regression: 0.12 (+/- 0.02)
+
+2016-02-27 03:46:40.103068-START (range = 0.135 index = 2 range2 = 0.15)
+2016-02-27 03:46:40.578980 - 
+2016-02-27 03:56:49.739121-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.02)
+
+2016-02-27 03:56:50.659566-START (range = 0.145 index = 2 range2 = 0.15)
+2016-02-27 03:56:51.139109 - 
+2016-02-27 04:06:44.975878-FINISH - Random Forest Squared Regression: 0.16 (+/- 0.01)
+
+2016-02-27 04:06:45.888768-START (range = 0.155 index = 2 range2 = 0.15)
+2016-02-27 04:06:46.339347 - 
+2016-02-27 04:16:54.171953-FINISH - Random Forest Squared Regression: 0.21 (+/- 0.02)
+
+2016-02-27 04:16:55.089000-START (range = 0.165 index = 2 range2 = 0.15)
+2016-02-27 04:16:55.531715 - 
+2016-02-27 04:26:43.651573-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 04:26:44.563947-START (range = 0.175 index = 2 range2 = 0.15)
+2016-02-27 04:26:45.010743 - 
+2016-02-27 04:36:40.195005-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 04:36:41.121361-START (range = 0.185 index = 2 range2 = 0.15)
+2016-02-27 04:36:41.566938 - 
+2016-02-27 04:46:39.493408-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 04:46:40.428204-START (range = 0.195 index = 2 range2 = 0.15)
+2016-02-27 04:46:40.871348 - 
+2016-02-27 04:56:30.949464-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 04:56:31.870958-START (range = 0.205 index = 2 range2 = 0.15)
+2016-02-27 04:56:32.318048 - 
+2016-02-27 05:06:25.711851-FINISH - Random Forest Squared Regression: 0.23 (+/- 0.02)
+
+2016-02-27 05:06:26.631243-START (range = 0.015 index = 3 range2 = 0.05)
+2016-02-27 05:06:27.294472 - 
+2016-02-27 05:09:55.107686-FINISH - Random Forest Squared Regression: 0.04 (+/- 0.01)
+
+2016-02-27 05:09:56.018049-START (range = 0.025 index = 3 range2 = 0.05)
+2016-02-27 05:09:56.717383 - 
+2016-02-27 05:11:39.585932-FINISH - Random Forest Squared Regression: 0.05 (+/- 0.02)
+
+2016-02-27 05:11:40.515136-START (range = 0.035 index = 3 range2 = 0.05)
+2016-02-27 05:11:41.227961 - 
+2016-02-27 05:12:44.287413-FINISH - Random Forest Squared Regression: 0.06 (+/- 0.01)
+
+2016-02-27 05:12:45.284908-START (range = 0.045 index = 3 range2 = 0.05)
+2016-02-27 05:12:45.980343 - 
+2016-02-27 05:13:53.474761-FINISH - Random Forest Squared Regression: 0.06 (+/- 0.01)
+
+2016-02-27 05:13:54.498673-START (range = 0.055 index = 3 range2 = 0.05)
+2016-02-27 05:13:55.311277 - 
+2016-02-27 05:14:45.124725-FINISH - Random Forest Squared Regression: 0.06 (+/- 0.01)
+
+2016-02-27 05:14:46.035948-START (range = 0.065 index = 3 range2 = 0.05)
+2016-02-27 05:14:46.742358 - 
+2016-02-27 05:15:31.202114-FINISH - Random Forest Squared Regression: 0.07 (+/- 0.01)
+
+2016-02-27 05:15:32.111170-START (range = 0.075 index = 3 range2 = 0.05)
+2016-02-27 05:15:32.806809 - 
+2016-02-27 05:16:03.903233-FINISH - Random Forest Squared Regression: 0.05 (+/- 0.01)
+
+2016-02-27 05:16:04.895528-START (range = 0.085 index = 3 range2 = 0.05)
+2016-02-27 05:16:05.715241 - 
+2016-02-27 05:16:38.985824-FINISH - Random Forest Squared Regression: 0.06 (+/- 0.03)
+
+2016-02-27 05:16:39.900775-START (range = 0.095 index = 3 range2 = 0.05)
+2016-02-27 05:16:40.605942 - 
+2016-02-27 05:17:06.276672-FINISH - Random Forest Squared Regression: 0.08 (+/- 0.02)
+
+2016-02-27 05:17:07.199622-START (range = 0.105 index = 3 range2 = 0.05)
+2016-02-27 05:17:07.893093 - 
+2016-02-27 05:18:07.966912-FINISH - Random Forest Squared Regression: 0.16 (+/- 0.01)
+
+2016-02-27 05:18:08.887134-START (range = 0.115 index = 3 range2 = 0.05)
+2016-02-27 05:18:09.592762 - 
+2016-02-27 05:19:06.800651-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.02)
+
+2016-02-27 05:19:07.721352-START (range = 0.125 index = 3 range2 = 0.05)
+2016-02-27 05:19:08.418354 - 
+2016-02-27 05:20:03.587568-FINISH - Random Forest Squared Regression: 0.13 (+/- 0.02)
+
+2016-02-27 05:20:04.925638-START (range = 0.135 index = 3 range2 = 0.05)
+2016-02-27 05:20:06.124783 - 
+2016-02-27 05:20:55.552111-FINISH - Random Forest Squared Regression: 0.09 (+/- 0.04)
+
+2016-02-27 05:20:56.468198-START (range = 0.145 index = 3 range2 = 0.05)
+2016-02-27 05:20:57.171859 - 
+2016-02-27 05:21:39.484036-FINISH - Random Forest Squared Regression: 0.09 (+/- 0.04)
+
+2016-02-27 05:21:40.424919-START (range = 0.155 index = 3 range2 = 0.05)
+2016-02-27 05:21:41.127433 - 
+2016-02-27 05:21:53.927155-FINISH - Random Forest Squared Regression: -0.04 (+/- 0.02)
+
+2016-02-27 05:21:54.817041-START (range = 0.165 index = 3 range2 = 0.05)
+2016-02-27 05:21:55.527801 - 
+2016-02-27 05:21:56.906077-START (range = 0.175 index = 3 range2 = 0.05)
+2016-02-27 05:21:58.112722 - 
+2016-02-27 05:22:19.014128-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:22:19.927099-START (range = 0.185 index = 3 range2 = 0.05)
+2016-02-27 05:22:20.625549 - 
+2016-02-27 05:22:42.340603-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:22:43.253833-START (range = 0.195 index = 3 range2 = 0.05)
+2016-02-27 05:22:43.952739 - 
+2016-02-27 05:23:04.711266-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:23:06.012571-START (range = 0.205 index = 3 range2 = 0.05)
+2016-02-27 05:23:06.804850 - 
+2016-02-27 05:23:27.448118-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:23:28.366588-START (range = 0.015 index = 3 range2 = 0.1)
+2016-02-27 05:23:29.016237 - 
+2016-02-27 05:27:01.171773-FINISH - Random Forest Squared Regression: 0.11 (+/- 0.01)
+
+2016-02-27 05:27:02.085834-START (range = 0.025 index = 3 range2 = 0.1)
+2016-02-27 05:27:02.763881 - 
+2016-02-27 05:29:04.351801-FINISH - Random Forest Squared Regression: 0.12 (+/- 0.02)
+
+2016-02-27 05:29:05.398724-START (range = 0.035 index = 3 range2 = 0.1)
+2016-02-27 05:29:06.104308 - 
+2016-02-27 05:30:38.655326-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.01)
+
+2016-02-27 05:30:39.561386-START (range = 0.045 index = 3 range2 = 0.1)
+2016-02-27 05:30:40.248951 - 
+2016-02-27 05:32:07.132942-FINISH - Random Forest Squared Regression: 0.17 (+/- 0.02)
+
+2016-02-27 05:32:08.052636-START (range = 0.055 index = 3 range2 = 0.1)
+2016-02-27 05:32:08.737720 - 
+2016-02-27 05:33:53.586805-FINISH - Random Forest Squared Regression: 0.22 (+/- 0.02)
+
+2016-02-27 05:33:54.607507-START (range = 0.065 index = 3 range2 = 0.1)
+2016-02-27 05:33:55.401702 - 
+2016-02-27 05:35:29.688417-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-27 05:35:30.614037-START (range = 0.075 index = 3 range2 = 0.1)
+2016-02-27 05:35:31.297045 - 
+2016-02-27 05:36:52.178398-FINISH - Random Forest Squared Regression: 0.22 (+/- 0.03)
+
+2016-02-27 05:36:53.093593-START (range = 0.085 index = 3 range2 = 0.1)
+2016-02-27 05:36:53.785507 - 
+2016-02-27 05:38:08.998729-FINISH - Random Forest Squared Regression: 0.20 (+/- 0.02)
+
+2016-02-27 05:38:09.917655-START (range = 0.095 index = 3 range2 = 0.1)
+2016-02-27 05:38:10.619521 - 
+2016-02-27 05:39:18.137489-FINISH - Random Forest Squared Regression: 0.18 (+/- 0.02)
+
+2016-02-27 05:39:19.124792-START (range = 0.105 index = 3 range2 = 0.1)
+2016-02-27 05:39:19.929470 - 
+2016-02-27 05:40:24.513524-FINISH - Random Forest Squared Regression: 0.18 (+/- 0.02)
+
+2016-02-27 05:40:25.440804-START (range = 0.115 index = 3 range2 = 0.1)
+2016-02-27 05:40:26.131196 - 
+2016-02-27 05:41:24.664082-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.02)
+
+2016-02-27 05:41:25.576733-START (range = 0.125 index = 3 range2 = 0.1)
+2016-02-27 05:41:26.268735 - 
+2016-02-27 05:42:35.089835-FINISH - Random Forest Squared Regression: 0.19 (+/- 0.03)
+
+2016-02-27 05:42:36.143632-START (range = 0.135 index = 3 range2 = 0.1)
+2016-02-27 05:42:36.930317 - 
+2016-02-27 05:43:36.915014-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.04)
+
+2016-02-27 05:43:37.838047-START (range = 0.145 index = 3 range2 = 0.1)
+2016-02-27 05:43:38.529678 - 
+2016-02-27 05:44:31.831805-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.04)
+
+2016-02-27 05:44:32.765297-START (range = 0.155 index = 3 range2 = 0.1)
+2016-02-27 05:44:33.458121 - 
+2016-02-27 05:45:00.416860-FINISH - Random Forest Squared Regression: 0.03 (+/- 0.02)
+
+2016-02-27 05:45:01.334549-START (range = 0.165 index = 3 range2 = 0.1)
+2016-02-27 05:45:02.042207 - 
+2016-02-27 05:45:23.825841-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:45:24.744682-START (range = 0.175 index = 3 range2 = 0.1)
+2016-02-27 05:45:25.445327 - 
+2016-02-27 05:45:46.890847-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:45:47.819824-START (range = 0.185 index = 3 range2 = 0.1)
+2016-02-27 05:45:48.536263 - 
+2016-02-27 05:46:09.188283-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:46:10.516675-START (range = 0.195 index = 3 range2 = 0.1)
+2016-02-27 05:46:11.657480 - 
+2016-02-27 05:46:31.795449-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:46:32.708524-START (range = 0.205 index = 3 range2 = 0.1)
+2016-02-27 05:46:33.419165 - 
+2016-02-27 05:46:53.457027-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 05:46:54.371659-START (range = 0.015 index = 3 range2 = 0.15)
+2016-02-27 05:46:55.008969 - 
+2016-02-27 05:51:04.083336-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.02)
+
+2016-02-27 05:51:05.353870-START (range = 0.025 index = 3 range2 = 0.15)
+2016-02-27 05:51:06.506105 - 
+2016-02-27 05:53:56.129375-FINISH - Random Forest Squared Regression: 0.25 (+/- 0.03)
+
+2016-02-27 05:53:57.047009-START (range = 0.035 index = 3 range2 = 0.15)
+2016-02-27 05:53:57.716258 - 
+2016-02-27 05:56:07.582049-FINISH - Random Forest Squared Regression: 0.25 (+/- 0.03)
+
+2016-02-27 05:56:08.497207-START (range = 0.045 index = 3 range2 = 0.15)
+2016-02-27 05:56:09.169456 - 
+2016-02-27 05:58:12.503203-FINISH - Random Forest Squared Regression: 0.25 (+/- 0.02)
+
+2016-02-27 05:58:13.417108-START (range = 0.055 index = 3 range2 = 0.15)
+2016-02-27 05:58:14.091004 - 
+2016-02-27 06:00:03.476944-FINISH - Random Forest Squared Regression: 0.25 (+/- 0.03)
+
+2016-02-27 06:00:04.397835-START (range = 0.065 index = 3 range2 = 0.15)
+2016-02-27 06:00:05.080417 - 
+2016-02-27 06:01:40.010488-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-27 06:01:40.933140-START (range = 0.075 index = 3 range2 = 0.15)
+2016-02-27 06:01:41.615176 - 
+2016-02-27 06:03:13.354439-FINISH - Random Forest Squared Regression: 0.27 (+/- 0.04)
+
+2016-02-27 06:03:14.254783-START (range = 0.085 index = 3 range2 = 0.15)
+2016-02-27 06:03:14.954964 - 
+2016-02-27 06:04:43.478750-FINISH - Random Forest Squared Regression: 0.25 (+/- 0.03)
+
+2016-02-27 06:04:44.394285-START (range = 0.095 index = 3 range2 = 0.15)
+2016-02-27 06:04:45.086387 - 
+2016-02-27 06:05:58.649762-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-27 06:05:59.610853-START (range = 0.105 index = 3 range2 = 0.15)
+2016-02-27 06:06:00.323321 - 
+2016-02-27 06:07:14.885349-FINISH - Random Forest Squared Regression: 0.24 (+/- 0.03)
+
+2016-02-27 06:07:15.799577-START (range = 0.115 index = 3 range2 = 0.15)
+2016-02-27 06:07:16.531252 - 
+2016-02-27 06:08:21.991026-FINISH - Random Forest Squared Regression: 0.20 (+/- 0.02)
+
+2016-02-27 06:08:22.916150-START (range = 0.125 index = 3 range2 = 0.15)
+2016-02-27 06:08:23.607781 - 
+2016-02-27 06:09:30.988597-FINISH - Random Forest Squared Regression: 0.19 (+/- 0.03)
+
+2016-02-27 06:09:31.911672-START (range = 0.135 index = 3 range2 = 0.15)
+2016-02-27 06:09:32.604347 - 
+2016-02-27 06:10:32.743334-FINISH - Random Forest Squared Regression: 0.15 (+/- 0.04)
+
+2016-02-27 06:10:33.659474-START (range = 0.145 index = 3 range2 = 0.15)
+2016-02-27 06:10:34.349849 - 
+2016-02-27 06:11:27.921581-FINISH - Random Forest Squared Regression: 0.14 (+/- 0.04)
+
+2016-02-27 06:11:28.807690-START (range = 0.155 index = 3 range2 = 0.15)
+2016-02-27 06:11:29.530352 - 
+2016-02-27 06:11:57.669510-FINISH - Random Forest Squared Regression: 0.03 (+/- 0.02)
+
+2016-02-27 06:11:58.587229-START (range = 0.165 index = 3 range2 = 0.15)
+2016-02-27 06:11:59.285933 - 
+2016-02-27 06:12:20.674697-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 06:12:21.582698-START (range = 0.175 index = 3 range2 = 0.15)
+2016-02-27 06:12:22.286236 - 
+2016-02-27 06:12:44.020909-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 06:12:44.937293-START (range = 0.185 index = 3 range2 = 0.15)
+2016-02-27 06:12:45.644947 - 
+2016-02-27 06:13:05.868251-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 06:13:07.179513-START (range = 0.195 index = 3 range2 = 0.15)
+2016-02-27 06:13:08.161324 - 
+2016-02-27 06:13:28.149285-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
+2016-02-27 06:13:29.062926-START (range = 0.205 index = 3 range2 = 0.15)
+2016-02-27 06:13:29.761992 - 
+2016-02-27 06:13:51.605728-FINISH - Random Forest Squared Regression: 0.00 (+/- 0.01)
+
